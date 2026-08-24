@@ -1,0 +1,48 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.1.1, pluggy-1.6.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/claude/proyecto_s10
+collecting ... collected 40 items
+
+tests/test_integration.py::TestIngestaYEDA::test_carga_el_numero_de_filas_esperado PASSED [  2%]
+tests/test_integration.py::TestIngestaYEDA::test_reporte_de_integridad_aprobado PASSED [  5%]
+tests/test_integration.py::TestIngestaYEDA::test_sin_valores_nulos PASSED [  7%]
+tests/test_integration.py::TestIngestaYEDA::test_prevalencia_de_falla_cercana_al_10_por_ciento PASSED [ 10%]
+tests/test_integration.py::TestIngestaYEDA::test_seleccion_de_predictoras_respeta_el_umbral_de_correlacion PASSED [ 12%]
+tests/test_integration.py::TestEntrenamiento::test_particion_es_70_30_estratificada PASSED [ 15%]
+tests/test_integration.py::TestEntrenamiento::test_prevalencia_se_conserva_en_ambas_particiones PASSED [ 17%]
+tests/test_integration.py::TestEntrenamiento::test_no_hay_fuga_de_informacion_entre_train_y_test PASSED [ 20%]
+tests/test_integration.py::TestEntrenamiento::test_f1_entrenamiento_cumple_el_objetivo_H2 PASSED [ 22%]
+tests/test_integration.py::TestEntrenamiento::test_pipeline_entrenado_predice_probabilidades_validas PASSED [ 25%]
+tests/test_integration.py::TestValidacion::test_auc_roc_cumple_el_objetivo_H3 PASSED [ 27%]
+tests/test_integration.py::TestValidacion::test_intervalo_de_confianza_bootstrap_es_coherente PASSED [ 30%]
+tests/test_integration.py::TestValidacion::test_metricas_estan_en_rango_valido PASSED [ 32%]
+tests/test_integration.py::TestIntegracionCmmsYTablero::test_clasificacion_de_riesgo_es_monotonica PASSED [ 35%]
+tests/test_integration.py::TestIntegracionCmmsYTablero::test_calculo_de_riesgo_agrega_columnas_esperadas PASSED [ 37%]
+tests/test_integration.py::TestIntegracionCmmsYTablero::test_generacion_de_ordenes_de_trabajo_excluye_riesgo_bajo PASSED [ 40%]
+tests/test_integration.py::TestIntegracionCmmsYTablero::test_pipeline_end_to_end_genera_todos_los_artefactos PASSED [ 42%]
+tests/test_integration.py::test_pipeline_completo_via_main PASSED        [ 45%]
+tests/test_performance.py::TestRendimiento::test_pipeline_completo_corre_en_menos_de_30_segundos PASSED [ 47%]
+tests/test_performance.py::TestRendimiento::test_bootstrap_vectorizado_es_mas_rapido_que_800_llamadas_individuales PASSED [ 50%]
+tests/test_performance.py::TestDiferentesEscenarios::test_funciona_con_una_muestra_reducida_del_dataset PASSED [ 52%]
+tests/test_performance.py::TestDiferentesEscenarios::test_funciona_con_un_solo_sitio PASSED [ 55%]
+tests/test_performance.py::TestDiferentesEscenarios::test_funciona_con_prevalencia_de_falla_distinta PASSED [ 57%]
+tests/test_performance.py::TestDiferentesEscenarios::test_error_claro_si_faltan_columnas_esperadas PASSED [ 60%]
+tests/test_unit.py::TestClasificarRiesgo::test_umbral_alto_exacto_es_alto PASSED [ 62%]
+tests/test_unit.py::TestClasificarRiesgo::test_justo_bajo_el_umbral_alto_es_medio PASSED [ 65%]
+tests/test_unit.py::TestClasificarRiesgo::test_umbral_medio_exacto_es_medio PASSED [ 67%]
+tests/test_unit.py::TestClasificarRiesgo::test_justo_bajo_el_umbral_medio_es_bajo PASSED [ 70%]
+tests/test_unit.py::TestClasificarRiesgo::test_probabilidad_cero_es_bajo PASSED [ 72%]
+tests/test_unit.py::TestClasificarRiesgo::test_probabilidad_uno_es_alto PASSED [ 75%]
+tests/test_unit.py::TestClasificarRiesgo::test_prioridad_desde_riesgo[ALTO-URGENTE] PASSED [ 77%]
+tests/test_unit.py::TestClasificarRiesgo::test_prioridad_desde_riesgo[MEDIO-PROGRAMADA] PASSED [ 80%]
+tests/test_unit.py::TestClasificarRiesgo::test_prioridad_desde_riesgo[BAJO-SIN ACCI\xd3N] PASSED [ 82%]
+tests/test_unit.py::TestSeleccionPredictoras::test_variable_fuerte_se_incluye PASSED [ 85%]
+tests/test_unit.py::TestSeleccionPredictoras::test_variable_ruido_se_excluye PASSED [ 87%]
+tests/test_unit.py::TestSeleccionPredictoras::test_umbral_mas_estricto_selecciona_menos_variables PASSED [ 90%]
+tests/test_unit.py::TestSeleccionPredictoras::test_correlaciones_estan_entre_menos_uno_y_uno PASSED [ 92%]
+tests/test_unit.py::TestReproducibilidad::test_valores_identicos_coinciden PASSED [ 95%]
+tests/test_unit.py::TestReproducibilidad::test_diferencia_en_quinto_decimal_coincide_a_4_decimales PASSED [ 97%]
+tests/test_unit.py::TestReproducibilidad::test_diferencia_en_tercer_decimal_no_coincide_a_4_decimales PASSED [100%]
+
+============================= 40 passed in 22.86s ==============================

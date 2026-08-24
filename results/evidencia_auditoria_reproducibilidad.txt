@@ -1,0 +1,3 @@
+[V4 · Auditoría de reproducibilidad] CERTIFICADA (tolerancia: 4 decimales)
+  - AUC-ROC  corrida 1 = 0.974552 | corrida 2 = 0.974552
+  - F1-score corrida 1 = 1.000000 | corrida 2 = 1.000000

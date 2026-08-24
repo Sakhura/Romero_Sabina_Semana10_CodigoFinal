@@ -1,0 +1,953 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Tablero de Riesgo · Sistema de Monitoreo de Equipos Industriales</title>
+<style>
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #f4f6f8; margin: 0; padding: 2rem; color: #1f2d3d; }
+  h1 { margin-bottom: 0.2rem; }
+  .subtitulo { color: #5b6b7a; margin-top: 0; }
+  .tarjetas { display: flex; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap; }
+  .tarjeta { background: white; border-radius: 8px; padding: 1rem 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); flex: 1; min-width: 160px; }
+  .tarjeta .valor { font-size: 1.8rem; font-weight: 700; }
+  .tarjeta .etiqueta { color: #5b6b7a; font-size: 0.85rem; }
+  table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+  th, td { padding: 0.6rem 0.9rem; text-align: left; border-bottom: 1px solid #eee; }
+  th { background: #22364f; color: white; position: sticky; top: 0; }
+  .badge { padding: 0.2rem 0.6rem; border-radius: 12px; font-size: 0.78rem; font-weight: 600; color: white; }
+  .badge-alto { background: #c0392b; }
+  .badge-medio { background: #d68910; }
+  .badge-bajo { background: #4c9a2a; }
+  .riesgo-alto { background: #fdecea; }
+  .riesgo-medio { background: #fef5e6; }
+  .metricas { color: #5b6b7a; font-size: 0.85rem; margin-top: 2rem; }
+</style>
+</head>
+<body>
+  <h1>Tablero de Riesgo por Equipo</h1>
+  <p class="subtitulo">Sistema de Monitoreo de Equipos Industriales · IDA300 · Prototipo integrado con el CMMS (simulado)</p>
+
+  <div class="tarjetas">
+    <div class="tarjeta"><div class="valor">2302</div><div class="etiqueta">Equipos evaluados</div></div>
+    <div class="tarjeta"><div class="valor">163</div><div class="etiqueta">Riesgo ALTO (orden urgente)</div></div>
+    <div class="tarjeta"><div class="valor">54</div><div class="etiqueta">Riesgo MEDIO (programada)</div></div>
+    <div class="tarjeta"><div class="valor">0.975</div><div class="etiqueta">AUC-ROC (conjunto de prueba)</div></div>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>ID equipo</th><th>Tipo</th><th>Ubicación</th><th>Prob. de falla</th><th>Riesgo</th><th>Orden de trabajo</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+<tr class="riesgo-alto">
+  <td>1790</td>
+  <td>Pump</td>
+  <td>San Francisco</td>
+  <td>100.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>544</td>
+  <td>Turbine</td>
+  <td>San Francisco</td>
+  <td>100.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>133</td>
+  <td>Pump</td>
+  <td>San Francisco</td>
+  <td>100.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2157</td>
+  <td>Compressor</td>
+  <td>Chicago</td>
+  <td>99.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3594</td>
+  <td>Turbine</td>
+  <td>San Francisco</td>
+  <td>99.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3999</td>
+  <td>Pump</td>
+  <td>Chicago</td>
+  <td>99.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2309</td>
+  <td>Pump</td>
+  <td>Houston</td>
+  <td>99.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1382</td>
+  <td>Compressor</td>
+  <td>Houston</td>
+  <td>99.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2652</td>
+  <td>Compressor</td>
+  <td>New York</td>
+  <td>99.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5634</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>99.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2099</td>
+  <td>Pump</td>
+  <td>New York</td>
+  <td>99.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1468</td>
+  <td>Turbine</td>
+  <td>New York</td>
+  <td>98.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5964</td>
+  <td>Pump</td>
+  <td>New York</td>
+  <td>98.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>235</td>
+  <td>Compressor</td>
+  <td>Atlanta</td>
+  <td>98.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2608</td>
+  <td>Turbine</td>
+  <td>San Francisco</td>
+  <td>98.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5478</td>
+  <td>Pump</td>
+  <td>Chicago</td>
+  <td>98.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3178</td>
+  <td>Pump</td>
+  <td>New York</td>
+  <td>98.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5192</td>
+  <td>Turbine</td>
+  <td>Houston</td>
+  <td>98.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2311</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>98.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2557</td>
+  <td>Pump</td>
+  <td>Houston</td>
+  <td>97.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2604</td>
+  <td>Pump</td>
+  <td>Houston</td>
+  <td>97.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5233</td>
+  <td>Turbine</td>
+  <td>New York</td>
+  <td>97.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5012</td>
+  <td>Pump</td>
+  <td>Chicago</td>
+  <td>97.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>190</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>97.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2651</td>
+  <td>Compressor</td>
+  <td>Atlanta</td>
+  <td>97.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1223</td>
+  <td>Pump</td>
+  <td>Chicago</td>
+  <td>97.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7539</td>
+  <td>Pump</td>
+  <td>Houston</td>
+  <td>97.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7322</td>
+  <td>Pump</td>
+  <td>Atlanta</td>
+  <td>96.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1560</td>
+  <td>Compressor</td>
+  <td>Chicago</td>
+  <td>96.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4077</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>96.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1880</td>
+  <td>Compressor</td>
+  <td>Houston</td>
+  <td>96.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1436</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>96.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7280</td>
+  <td>Turbine</td>
+  <td>Houston</td>
+  <td>96.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>247</td>
+  <td>Turbine</td>
+  <td>San Francisco</td>
+  <td>96.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4488</td>
+  <td>Pump</td>
+  <td>Atlanta</td>
+  <td>96.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>6176</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>96.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>34</td>
+  <td>Turbine</td>
+  <td>San Francisco</td>
+  <td>96.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7414</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>96.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4225</td>
+  <td>Compressor</td>
+  <td>New York</td>
+  <td>96.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3487</td>
+  <td>Pump</td>
+  <td>New York</td>
+  <td>96.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4312</td>
+  <td>Pump</td>
+  <td>Atlanta</td>
+  <td>96.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7030</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>95.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7620</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>95.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5416</td>
+  <td>Compressor</td>
+  <td>Chicago</td>
+  <td>95.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2491</td>
+  <td>Compressor</td>
+  <td>New York</td>
+  <td>95.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>6315</td>
+  <td>Pump</td>
+  <td>Atlanta</td>
+  <td>95.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>912</td>
+  <td>Pump</td>
+  <td>Chicago</td>
+  <td>95.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5175</td>
+  <td>Compressor</td>
+  <td>New York</td>
+  <td>95.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4450</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>95.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7049</td>
+  <td>Pump</td>
+  <td>New York</td>
+  <td>95.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>6427</td>
+  <td>Compressor</td>
+  <td>Houston</td>
+  <td>95.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1188</td>
+  <td>Compressor</td>
+  <td>Chicago</td>
+  <td>95.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3146</td>
+  <td>Turbine</td>
+  <td>Houston</td>
+  <td>94.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>874</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>94.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2621</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>94.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2969</td>
+  <td>Compressor</td>
+  <td>Chicago</td>
+  <td>94.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5994</td>
+  <td>Pump</td>
+  <td>Atlanta</td>
+  <td>94.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4872</td>
+  <td>Turbine</td>
+  <td>New York</td>
+  <td>94.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5459</td>
+  <td>Pump</td>
+  <td>Houston</td>
+  <td>94.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5317</td>
+  <td>Compressor</td>
+  <td>San Francisco</td>
+  <td>93.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5505</td>
+  <td>Compressor</td>
+  <td>San Francisco</td>
+  <td>93.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7410</td>
+  <td>Turbine</td>
+  <td>Houston</td>
+  <td>93.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2314</td>
+  <td>Pump</td>
+  <td>Chicago</td>
+  <td>93.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2789</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>93.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5677</td>
+  <td>Pump</td>
+  <td>San Francisco</td>
+  <td>93.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1453</td>
+  <td>Turbine</td>
+  <td>New York</td>
+  <td>93.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3417</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>92.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1343</td>
+  <td>Pump</td>
+  <td>San Francisco</td>
+  <td>92.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>955</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>92.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>6389</td>
+  <td>Compressor</td>
+  <td>New York</td>
+  <td>92.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>6191</td>
+  <td>Compressor</td>
+  <td>Chicago</td>
+  <td>92.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>79</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>92.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7527</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>92.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4776</td>
+  <td>Turbine</td>
+  <td>New York</td>
+  <td>91.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5182</td>
+  <td>Compressor</td>
+  <td>Houston</td>
+  <td>91.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1272</td>
+  <td>Compressor</td>
+  <td>San Francisco</td>
+  <td>91.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4744</td>
+  <td>Compressor</td>
+  <td>New York</td>
+  <td>91.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3141</td>
+  <td>Compressor</td>
+  <td>Chicago</td>
+  <td>90.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>96</td>
+  <td>Compressor</td>
+  <td>Atlanta</td>
+  <td>90.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5633</td>
+  <td>Turbine</td>
+  <td>San Francisco</td>
+  <td>90.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>6452</td>
+  <td>Compressor</td>
+  <td>San Francisco</td>
+  <td>90.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7274</td>
+  <td>Compressor</td>
+  <td>Houston</td>
+  <td>90.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1913</td>
+  <td>Turbine</td>
+  <td>Houston</td>
+  <td>90.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3579</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>90.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>973</td>
+  <td>Pump</td>
+  <td>Chicago</td>
+  <td>89.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7601</td>
+  <td>Compressor</td>
+  <td>New York</td>
+  <td>89.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3709</td>
+  <td>Compressor</td>
+  <td>Atlanta</td>
+  <td>89.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1722</td>
+  <td>Compressor</td>
+  <td>San Francisco</td>
+  <td>89.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1258</td>
+  <td>Compressor</td>
+  <td>San Francisco</td>
+  <td>89.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2361</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>89.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>3025</td>
+  <td>Compressor</td>
+  <td>New York</td>
+  <td>88.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7179</td>
+  <td>Turbine</td>
+  <td>New York</td>
+  <td>88.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>6179</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>87.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>2517</td>
+  <td>Pump</td>
+  <td>Houston</td>
+  <td>87.0%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>1626</td>
+  <td>Pump</td>
+  <td>Atlanta</td>
+  <td>86.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4778</td>
+  <td>Turbine</td>
+  <td>Chicago</td>
+  <td>86.7%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>5270</td>
+  <td>Turbine</td>
+  <td>Atlanta</td>
+  <td>86.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>86</td>
+  <td>Pump</td>
+  <td>Houston</td>
+  <td>86.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>4274</td>
+  <td>Turbine</td>
+  <td>San Francisco</td>
+  <td>86.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+<tr class="riesgo-alto">
+  <td>7006</td>
+  <td>Pump</td>
+  <td>San Francisco</td>
+  <td>86.3%</td>
+  <td><span class="badge badge-alto">ALTO</span></td>
+  <td>URGENTE</td>
+</tr>
+
+    </tbody>
+  </table>
+
+  <p class="metricas">
+    Umbral de riesgo alto: probabilidad &ge; 70% · Umbral de riesgo medio: probabilidad &ge; 40%.
+    Mostrando los 100 equipos de mayor riesgo del conjunto de prueba (2302 en total).
+  </p>
+</body>
+</html>

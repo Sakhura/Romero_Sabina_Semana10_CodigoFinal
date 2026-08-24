@@ -1,0 +1,18 @@
+{
+  "auc_roc": 0.9745519976498237,
+  "auc_roc_ic95_bajo": 0.9580612373710599,
+  "auc_roc_ic95_alto": 0.9884616425808777,
+  "f1_score": 0.9120370370370371,
+  "precision": 0.9752475247524752,
+  "recall": 0.8565217391304348,
+  "umbral_objetivo_auc": 0.9,
+  "cumple_objetivo_auc": true,
+  "f1_entrenamiento": 1.0,
+  "predictoras": [
+    "temperature",
+    "pressure",
+    "vibration",
+    "equipment",
+    "location"
+  ]
+}

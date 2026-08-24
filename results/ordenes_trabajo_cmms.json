@@ -1,0 +1,1955 @@
+[
+  {
+    "id_equipo": 1790,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 1.0,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 544,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 1.0,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 133,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 1.0,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2157,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3594,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3999,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2309,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1382,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9933,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2652,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9933,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5634,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.99,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2099,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.99,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1468,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9867,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5964,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9867,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 235,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9833,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2608,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9833,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5478,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9833,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3178,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9833,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5192,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.98,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2311,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.98,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2557,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9767,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2604,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9767,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5233,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9733,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5012,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9733,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 190,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9733,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2651,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9733,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1223,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9733,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7539,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.97,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7322,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9667,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1560,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9667,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4077,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9667,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1880,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9667,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1436,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9667,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7280,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 247,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4488,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6176,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 34,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7414,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.96,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4225,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.96,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3487,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.96,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4312,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.96,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7030,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9567,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7620,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9567,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5416,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9567,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2491,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9567,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6315,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9567,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 912,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9533,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5175,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9533,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4450,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.95,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7049,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.95,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6427,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.95,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1188,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.95,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3146,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 874,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2621,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2969,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9433,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5994,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9433,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4872,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9433,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5459,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.94,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5317,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9367,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5505,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9367,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7410,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9333,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2314,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9333,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2789,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.93,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5677,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.93,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1453,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.93,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3417,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9267,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1343,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9267,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 955,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9233,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6389,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9233,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6191,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.92,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 79,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.92,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7527,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.92,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4776,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.9167,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5182,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9133,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1272,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9133,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4744,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.91,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3141,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.9067,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 96,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9033,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5633,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9033,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6452,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.9033,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7274,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1913,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.9,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3579,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.9,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 973,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.8967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7601,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.8967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3709,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1722,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8933,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1258,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.89,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2361,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.89,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3025,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.8833,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7179,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.88,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6179,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8767,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2517,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.87,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1626,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8667,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4778,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.8667,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5270,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 86,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.8633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4274,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7006,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2462,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.8633,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5496,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.86,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4276,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8533,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3557,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.85,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4549,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.85,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2873,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5129,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.8467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1204,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 107,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.8467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 307,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.8433,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1084,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8433,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 302,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.8433,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2395,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.84,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6574,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.84,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7230,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.84,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6628,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8367,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4589,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.8367,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4443,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8367,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6326,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.83,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4035,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8267,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2341,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.8267,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6832,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8233,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3859,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.82,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2342,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.8167,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1254,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.8167,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 702,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.8133,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 723,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.8067,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5932,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.8033,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 480,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.8,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7279,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.7967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7266,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.7967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4568,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.7967,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3877,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.7867,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 74,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.7867,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4860,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.7867,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2005,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.7833,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4152,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.78,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1518,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.78,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5165,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.78,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7670,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.7767,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6866,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.7767,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6840,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.7733,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3406,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.77,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1972,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.7667,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 986,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.76,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7075,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.76,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2936,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.76,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5927,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.76,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2898,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.7567,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1585,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.7567,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1627,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.7567,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6560,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.7533,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 6328,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.7533,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5780,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.75,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 4719,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.7467,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 5208,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.7433,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 1133,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.74,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3689,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.7367,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 2518,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.72,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 830,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.71,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 3010,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.71,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 7585,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.7033,
+    "nivel_riesgo": "ALTO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "URGENTE"
+  },
+  {
+    "id_equipo": 318,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.6933,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2912,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.69,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5662,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.69,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 193,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.69,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4440,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.6867,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 3959,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.6867,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4124,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.6867,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2940,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.68,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5836,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.6733,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 1933,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.6667,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4506,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.66,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 6398,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.6533,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2018,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.6367,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2746,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.6367,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 3209,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.6367,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 6272,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.6367,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4228,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.6367,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4731,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.6333,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4910,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.63,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2588,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.63,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2667,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.6267,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5131,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.6267,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 6843,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.6267,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2185,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.6233,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2286,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.6233,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 866,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.6233,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 3626,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.6167,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5922,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.6167,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4530,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.61,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5945,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.61,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 1033,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.6067,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 3211,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.6033,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 6279,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.6033,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 1474,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.5733,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4967,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.5633,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 3160,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.5633,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2653,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.55,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4048,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.5433,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2260,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.52,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 7589,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.4833,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5003,
+    "tipo_equipo": "Pump",
+    "ubicacion": "New York",
+    "probabilidad_falla": 0.4833,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 6498,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.48,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5158,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.4733,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 2214,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.44,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 3035,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.4367,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 3840,
+    "tipo_equipo": "Pump",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.4333,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 3100,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.4333,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 4759,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.4333,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 131,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Chicago",
+    "probabilidad_falla": 0.4267,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 6152,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "San Francisco",
+    "probabilidad_falla": 0.4167,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 7222,
+    "tipo_equipo": "Compressor",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.4167,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5614,
+    "tipo_equipo": "Turbine",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.4133,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 7290,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Houston",
+    "probabilidad_falla": 0.4133,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  },
+  {
+    "id_equipo": 5939,
+    "tipo_equipo": "Pump",
+    "ubicacion": "Atlanta",
+    "probabilidad_falla": 0.4033,
+    "nivel_riesgo": "MEDIO",
+    "fecha_creacion": "2026-08-24T14:18:34.322908+00:00",
+    "prioridad": "PROGRAMADA"
+  }
+]
