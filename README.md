@@ -3,8 +3,7 @@
 **Asignatura:** IDA300 · **Autor:** Sabina Romero · **Profesor:** Marcelo Andrés Reyes Rogget
 **Entrega:** Código Final y Demostración, Semana 10 (Sumativa)
 **Base:** código de la Semana 9 (`Romero_Sabina_Semana9_PreEntregaCodigo`), optimizado y completado.
-Ver `OPTIMIZACION.md` para el detalle de los cambios realizados esta semana
-y `DEMOSTRACION.md` para el guion de la presentación en vivo.
+Ver `OPTIMIZACION.md` para el detalle de los cambios realizados esta semana.
 
 ## 1. Qué problema resuelve este código
 
@@ -205,9 +204,5 @@ temperatura; `humidity` se descarta por baja correlación (r ≈ 0,01).
   no existe acceso a un CMMS real para este PoC.
 - El tablero es un **archivo HTML estático**, no una aplicación web con
   backend.
-- Quedan fuera de esta entrega: la ingesta en streaming desde la
-  sensórica de planta, el despliegue productivo, la predicción conformal
-  con abstención y la validación *leave-one-site-out* descritas como
-  objetivos secundarios en la Tarea Sumativa 1; se proponen como
-  evolución futura en `DEMOSTRACION.md` §7.
+
 # Romero_Sabina_Semana10_CodigoFinal
